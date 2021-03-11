@@ -1,6 +1,6 @@
 {
   "name": "fast-sorted-array",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "extremely fast JavaScript sorted array insertion",
   "main": "src/fast-sort-array.js",
   "scripts": {
@@ -8,11 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/terrymorse58/fast-sorted-array.git"
+    "url": "git+https://github.com/terrymorse58/fast-sorted-array.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Terry Morse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terrymorse58/fast-sorted-array/issues"
+  },
+  "homepage": "https://github.com/terrymorse58/fast-sorted-array#readme",
+  "keywords": [
+    "array",
+    "sort",
+    "insert"
+  ]
 }
