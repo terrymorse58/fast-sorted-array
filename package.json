@@ -1,6 +1,6 @@
 {
   "name": "fast-sorted-array",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "extremely fast JavaScript sorted array insertion",
   "main": "src/fast-sort-array.js",
   "scripts": {
