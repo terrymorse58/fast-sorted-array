@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/terrymorse58/fast-sorted-array.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "author": "Terry Morse",
   "license": "ISC",
   "bugs": {
