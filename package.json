@@ -6,6 +6,13 @@
   "scripts": {
     "test": "node __test__/index.test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terrymorse58/fast-sorted-array.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "",
   "license": "ISC"
 }
